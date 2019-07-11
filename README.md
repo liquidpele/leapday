@@ -10,6 +10,12 @@ Example usage:  ./leapday.py 2000 2004 -f shortname -m json
 
 For full options, use -h
 
+## Research
+
+Research for the necessary algorithms was just using google to find them, and then writing my own implementations.
+The pages I ended up using are in the code comments where the algorithm was used.  No code was copy/pasted 
+per code challenge limitiations.  
+
 ## Details 
 
 For this project, it was specified this would be used by a lot of things, 
